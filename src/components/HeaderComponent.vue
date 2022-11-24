@@ -1,7 +1,7 @@
 <template>
   <div class="container">
     <div>
-        <img src="../assets/vue-dc-comics-1/img/dc-logo.png" alt="">
+        <img src="../assets/vue-dc-comics-1/dc-logo.png" alt="">
     </div>
     <nav>
         <ul>
